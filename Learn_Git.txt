@@ -1,0 +1,9 @@
+ 1. Add file/s
+git add file_name 	or 	git add .
+
+2. commit file/s
+git commit -m "any commit message"
+
+
+3. push file to cloud]
+git push
