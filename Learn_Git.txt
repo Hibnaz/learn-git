@@ -7,3 +7,5 @@ git commit -m "any commit message"
 
 3. push file to cloud]
 git push
+
+4. done.
